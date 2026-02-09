@@ -5,4 +5,4 @@ You can organize your files in **2 ways**. You can list keywords and every file 
 ## How to use
 The organizer is simple enough to operate without any tutorial.
 ## Installation
-Go to the releases tab and download the exe. This tool is not available for Mac or Linux and probably will never be.
+You must have python installed. Run the ```eyads-easy-file-organizer.cmd```
