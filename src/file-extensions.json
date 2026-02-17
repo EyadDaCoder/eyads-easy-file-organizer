@@ -1,1 +1,10 @@
-
+{
+  "Text": ["txt", "text", "md", "rtf", "log", "csv", "tsv"],
+  "Audio": ["mp3", "wav", "ogg", "aiff", "bwf", "m4a", "aac", "flac", "alac", "opus"],
+  "Video": ["mp3", "avi", "mov", "mkv", "webm"],
+  "Markup": ["html", "htm", "md", "markdown", "css"],
+  "Image": ["jpg", "jpeg", "jfif", "png", "svg"],
+  "Python": ["py", "pyc", "pyw", "pyd", "pyi", "pyx"],
+  "Java": ["java", "class", "jmod", "jar"],
+  "C/C++": ["cpp", "c", "h", "hpp", "hxx", "hh", "cc", "obj", "lib"]
+}
